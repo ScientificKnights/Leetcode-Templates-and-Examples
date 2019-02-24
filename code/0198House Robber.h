@@ -30,5 +30,3 @@ int rob(vector<int>& nums) {
         return result[n-1];
     }
 }
-
-[House Robber II]()
