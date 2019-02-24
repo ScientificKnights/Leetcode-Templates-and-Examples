@@ -24,7 +24,9 @@ public:
             //更新start
             if(m.count(s[i])!=0)
                 start=max(start,m[s[i]]+1);
+            //更新map
             m[s[i]]=i;
+            //更新res
             res=max(res,i-start+1);
         }
         return res;
