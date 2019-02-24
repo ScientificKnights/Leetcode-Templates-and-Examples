@@ -1,4 +1,8 @@
-# Leetcode  
+# Leetcode
+## dynamic programming
+When to use: 之后的结果对前面没有影响。或者说存在关系 F(n)=f(F(k<n)). 解决dp问题关键是找到推进公式  
+### 1D, 找到公式后得到下一个
+[Unique Binary Search]() [House Robber]() [counting bits]()  
 ## sliding window
 [Template](https://github.com/chbyang/Leetcode/blob/master/template/SlidingWindow1.cpp)
 ### key,count
