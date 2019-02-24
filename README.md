@@ -1,5 +1,4 @@
-# Leetcode
-
+# Leetcode  
 ## sliding window
 [Template](https://github.com/chbyang/Leetcode/blob/master/template/SlidingWindow1.cpp)
 ### key,count
