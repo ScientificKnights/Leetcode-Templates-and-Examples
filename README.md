@@ -8,7 +8,7 @@ When to use: 之后的结果对前面没有影响。或者说存在关系 F(n)=f
 公式用前面所有elements: [Unique Binary Search](https://github.com/chbyang/Leetcode/blob/master/code/0096Unique%20Binary%20Search%20Trees.h)  / [Perfect Squares](https://github.com/chbyang/Leetcode/blob/master/code/0279Perfect%20Squares.h) / [2 Keys Keyboard](https://github.com/chbyang/Leetcode/blob/master/code/650_2%20Keys%20Keyboard.h)  
 ### 2D
 [Template]()  
-[edit distance]() / []() / []()
+[Edit Distance]() / []() / []()
 ## 2. Binary Search
 
 ## 3. DFS
