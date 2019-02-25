@@ -7,8 +7,8 @@ When to use: 之后的结果对前面没有影响，并且存在关系 F(n)=f(F(
 公式用前面几个elements: [House Robber](https://github.com/chbyang/Leetcode/blob/master/code/0198House%20Robber.h) / [4 Keys Keyboard](https://github.com/chbyang/Leetcode/blob/master/code/0651_4%20Keys%20Keyboard.h) Similar problems: [House Robber II](https://github.com/chbyang/Leetcode/blob/master/code/0213House%20Robber%20II.h)  
 公式用前面所有elements: [Unique Binary Search](https://github.com/chbyang/Leetcode/blob/master/code/0096Unique%20Binary%20Search%20Trees.h)  / [Perfect Squares](https://github.com/chbyang/Leetcode/blob/master/code/0279Perfect%20Squares.h) / [2 Keys Keyboard](https://github.com/chbyang/Leetcode/blob/master/code/650_2%20Keys%20Keyboard.h)  
 ### 2D
-[Template]()  
-[Edit Distance]() / []() / []()
+[Template](https://github.com/chbyang/Leetcode/blob/master/template/2D_DP1.cpp)  
+[Edit Distance](https://github.com/chbyang/Leetcode/blob/master/code/0072Edit%20Distance.h) Similar problems: [Minimum ASCII Delete Sum for Two Strings]() / []()
 ## 2. Binary Search
 
 ## 3. DFS
