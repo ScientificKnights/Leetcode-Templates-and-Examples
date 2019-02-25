@@ -1,6 +1,6 @@
 # Leetcode
 ## 1. Dynamic Programming
-When to use: 之后的结果对前面没有影响。或者说存在关系 F(n)=f(F(k<n)). 解决dp问题关键是找到推进公式  
+When to use: 之后的结果对前面没有影响,并且存在关系 F(n)=f(F(k<n)). 解决dp问题关键是找到推进公式  
 问题格式： HOW MANY?? MAXMUM/MINMUM?? TURE/FALSE??  
 ### 1D, 找到公式后得到下一个
 公式只用前面一个element: [counting bits](https://github.com/chbyang/Leetcode/blob/master/code/0338Counting%20Bits.h)  
