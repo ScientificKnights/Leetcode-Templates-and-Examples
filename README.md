@@ -9,7 +9,7 @@ When to use: 之后的结果对前面没有影响，并且存在关系 F(n)=f(F(
 ### 2D
 [Template](https://github.com/chbyang/Leetcode/blob/master/template/2D_DP1.cpp)  
 如果递进
-[Edit Distance](https://github.com/chbyang/Leetcode/blob/master/code/0072Edit%20Distance.h) Similar problems: [Minimum ASCII Delete Sum for Two Strings<-Edit Distance]() / [Delete Operation for Two Strings<-Edit Distance]()
+[Edit Distance](https://github.com/chbyang/Leetcode/blob/master/code/0072Edit%20Distance.h) Similar problems: [Minimum ASCII Delete Sum for Two Strings](https://github.com/chbyang/Leetcode/blob/master/code/0712Minimum%20ASCII%20Delete%20Sum%20for%20Two%20Strings.h) / [Delete Operation for Two Strings](https://github.com/chbyang/Leetcode/blob/master/code/0583Delete%20Operation%20for%20Two%20Strings.h)  
 ## 2. Binary Search
 
 ## 3. DFS
