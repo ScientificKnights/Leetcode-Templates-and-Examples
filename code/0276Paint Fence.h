@@ -10,12 +10,9 @@ int numWays(int n, int k) {
     //DP, two states：same as last, different from last. states add one more degree: 1D to 2D
     //memory 2D 压缩为 1D
     
-    if(n<1||k<1)
-        return 0;
-    if(n==1)
-        return k;
-    else if(n==2)
-        return k*k;
+    if(n<1||k<1)        return 0;
+    if(n==1)            return k;
+    else if(n==2)       return k*k;
     else{
         //same as last one
         int same=k;
