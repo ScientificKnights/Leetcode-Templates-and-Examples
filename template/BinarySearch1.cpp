@@ -11,3 +11,17 @@ while(left<right){		//要保证要找的在start，end里[l,r)
     else			left=mid+1;	//l最后要换号，所以+1，以便和mid符号(<T)不等
 }
 return -1;				//没有相等，返回-1
+
+//-------------------------------------------------------------------------
+
+int left=0,right=n-1,mid;   //r大于等于target
+while(left<=right){         //要找的在[l,r]里
+    mid=left+(right-left)/2;
+    if(nums[mid]==target)
+        return mid;
+    else if(nums[mid]>target)
+        right=mid-1;
+    else
+        left=mid+1;
+}
+return -1;
