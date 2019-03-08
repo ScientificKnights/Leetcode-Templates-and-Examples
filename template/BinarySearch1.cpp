@@ -17,11 +17,8 @@ return -1;				//没有相等，返回-1
 int left=0,right=n-1,mid;   //r大于等于target
 while(left<=right){         //要找的在[l,r]里
     mid=left+(right-left)/2;
-    if(nums[mid]==target)
-        return mid;
-    else if(nums[mid]>target)
-        right=mid-1;
-    else
-        left=mid+1;
+    if(nums[mid]==target)        return mid;
+    else if(nums[mid]>target)        right=mid-1;
+    else        left=mid+1;
 }
 return -1;
