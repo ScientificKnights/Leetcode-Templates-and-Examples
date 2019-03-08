@@ -14,12 +14,12 @@ i) 公式递进：
 ii) 1D扩为2D, state是新的degree, 内存可2D压缩为1D：[Paint Fence](https://github.com/chbyang/Leetcode/blob/master/code/0276Paint%20Fence.h) / [Minimum Swaps To Make Sequences Increasing](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0801Minimum%20Swaps%20To%20Make%20Sequences%20Increasing.h) / [Best Time to Buy and Sell Stock III]() (Similar: [Best Time to Buy and Sell Stock IV]())  
 iii) 对角线推进: [Burst Bolloons](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0312Burst%20Balloons.h)  
 ## 2. Binary Search
-i) 不一定找到：[Template 1](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/BinarySearch1.cpp)  
+### a) 不一定找到：[Template 1](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/BinarySearch1.cpp)  
 [Binary Search](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0704Binary%20Search.h) / [Guess Number Higher or Lower](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0374Guess%20Number%20Higher%20or%20Lower.h)  
-ii) 一定找到：[Template 2](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/BinarySearch2.cpp)  
-a) mid>() return left-1; 找到的left>target; left-1<=target  
+### b) 一定找到：[Template 2](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/BinarySearch2.cpp)  
+i) mid>() return left-1; 找到的left>target; left-1<=target  
 [Sqrt](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0069Sqrt(x).h) / [First Bad Version]()  
-b) mid>=() return left; 找到的left>=target; left-1<target  
+ii) mid>=() return left; 找到的left>=target; left-1<target  
 [H-Index II]() /()[]  
 ## 3. DFS
 
