@@ -25,9 +25,9 @@ int maxA(int N) {
     //13                                    48(16)
     //14                                    64(16)
 
-    // 最多paste 五次, 只用比较前面五次paste结果哪个大
-    //如何6次paste, paste 3+sel+copy+paste 2
-    //如果7次paste，paste 4+sel+copy+paste 2
+    //最多paste五次, 只用比较前面五次paste结果哪个大
+    //如果6次paste(7X), 更好的办法是 paste 3+sel+copy+paste(8X)
+    //如果7次paste(8X)，更好的办法是 paste 4+sel+copy+paste 2(9X)
     
     if(N<=6) return N;
     vector<int> data(N+1,0);
