@@ -17,9 +17,9 @@ iii) 对角线推进: [Burst Bolloons](https://github.com/chbyang/Leetcode-Templ
 i) 不一定找到：[Template 1](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/BinarySearch1.cpp)  
 [Binary Search](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0704Binary%20Search.h) / [Guess Number Higher or Lower](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0374Guess%20Number%20Higher%20or%20Lower.h)  
 ii) 一定找到：[Template 2](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/BinarySearch2.cpp)  
-a) mid>() return left-1  
+a) mid>() return left-1; 找到的left>target; left-1<=target  
 [Sqrt](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0069Sqrt(x).h) / [First Bad Version]()  
-b) mid>=() return left  
+b) mid>=() return left; 找到的left>=target; left-1<target  
 [H-Index II]() /()[]  
 ## 3. DFS
 
