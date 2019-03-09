@@ -16,11 +16,11 @@ iii) 对角线推进: [Burst Bolloons](https://github.com/chbyang/Leetcode-Templ
 ## 2. Binary Search
 ### a) 不一定找到：
 [Template 1](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/BinarySearch1.cpp)  
-[Binary Search](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0704Binary%20Search.h) / [Guess Number Higher or Lower](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0374Guess%20Number%20Higher%20or%20Lower.h)
+[Binary Search](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0704Binary%20Search.h) / [Guess Number Higher or Lower](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0374Guess%20Number%20Higher%20or%20Lower.h)  
 ### b) 一定找到：
 [Template 2](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/BinarySearch2.cpp)  
 i) mid>() return left-1; 找到的left>target; left-1<=target  
-[Sqrt](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0069Sqrt(x).h) / [First Bad Version](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0278First%20Bad%20Version.h)  
+[Sqrt](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0069Sqrt(x).h) / [First Bad Version](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0278First%20Bad%20Version.h) / [Arranging Coins](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0441Arranging%20Coins.h)  
 ii) mid>=() return left; 找到的left>=target; left-1<target  
 [H-Index II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0275H-Index%20II.h) / [Koko eating bananas](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0875Koko%20Eating%20Bananas.h) / [Kth Smallest Element in a sorted Matrix](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0378Kth%20Smallest%20Element%20in%20a%20Sorted%20Matrix.h)  
 ## 3. DFS
