@@ -30,7 +30,8 @@ ii) mid>=() return left; 找到的left>=target; left-1<target
 ## 5. Backtracking
 
 ## 6. Union Find
-
+[Template](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/UnionFind.cpp)
+[Redundant Connection]() / [Friend Circles]() / [Sentence Similarity II]()
 ## 7. Sliding Window
 [Template](https://github.com/chbyang/Leetcode/blob/master/template/SlidingWindow1.cpp)
 ### a) key,count
