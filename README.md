@@ -33,8 +33,8 @@ ii) mid>=() return left; 找到的left>=target; left-1<target
 
 ## 7. Sliding Window
 [Template](https://github.com/chbyang/Leetcode/blob/master/template/SlidingWindow1.cpp)
-### key,count
-### key,position
+### a) key,count
+### b) key,position
 [Longest Substring Without Repeating Characters](https://github.com/chbyang/Leetcode/blob/master/code/0003LongestSubstrWithoutRepeatingCharacters.h)  
 ## 8. Two Pointers
 
