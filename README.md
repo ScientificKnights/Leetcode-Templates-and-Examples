@@ -32,10 +32,10 @@ ii) mid>=() return left; 找到的left>=target; left-1<target
 i) 对vector上的元素每个都试一下, O(2^N) [Template](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/BackTracking1.cpp)  
 Combination Sum [I](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0039Combination%20Sum.h), [II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0040Combination%20Sum%20II.h), [III]() / Subsets [I](), [II]() / [Palindrome Partitioning]() / [Letter Combinations of a Phone Number]()  
 ii) O(N!)  
-Permutations [I](), [II]()  
+Permutations [I](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0046Permutations.h), [II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0047.%20Permutations%20II.h)  
 ### b) 找出一条路径（backtrack 返回 bool）
 [Template 2](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/BackTracking2.cpp)  
-[Lowest Common Ancestor of a Binary Tree]() / [Partition to K equal Sum]() / [word search]() 
+[Lowest Common Ancestor of a Binary Tree](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0236Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.h) / [Partition to K equal Sum]() / [word search]() 
 ## 6. Union Find
 [Template](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/UnionFind.cpp)  
 [Redundant Connection]() / [Friend Circles]() / [Sentence Similarity II]()
