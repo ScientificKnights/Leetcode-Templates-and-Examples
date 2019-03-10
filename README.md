@@ -34,7 +34,7 @@ Combination Sum [I](https://github.com/chbyang/Leetcode-Templates-and-Examples/b
 ii) O(N!)  
 Permutations [I](), [II]()  
 ### b) 找出一条路径（backtrack 返回 bool）
-[Template 2]()  
+[Template 2](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/BackTracking2.cpp)  
 [Lowest Common Ancestor of a Binary Tree]() / [Partition to K equal Sum]() / [word search]() 
 ## 6. Union Find
 [Template](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/UnionFind.cpp)  
