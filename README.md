@@ -31,9 +31,11 @@ ii) mid>=() return left; 找到的left>=target; left-1<target
 ### a) 找出所有路径（backtrack 返回void）
 i) 对vector上的元素每个都试一下, O(2^N) [Template](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/BackTracking1.cpp)  
 Combination Sum [I](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0039Combination%20Sum.h), [II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0040Combination%20Sum%20II.h), [III]() / Subsets [I](), [II]() / [Palindrome Partitioning]() / [Letter Combinations of a Phone Number]()  
-ii) O(N!)
+ii) O(N!)  
+Permutations [I](), [II]()  
 ### b) 找出一条路径（backtrack 返回 bool）
-[Template 2]()
+[Template 2]()  
+[Lowest Common Ancestor of a Binary Tree]() / [Partition to K equal Sum]() / [word search]() 
 ## 6. Union Find
 [Template](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/UnionFind.cpp)  
 [Redundant Connection]() / [Friend Circles]() / [Sentence Similarity II]()
