@@ -51,10 +51,10 @@ Permutations [I](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob
 ## 10. Stack
 
 ## unordered_map
-[TWO SUM](https://github.com/chbyang/Leetcode/blob/master/code/0001TwoSum.h) 
+[TWO SUM](https://github.com/chbyang/Leetcode/blob/master/code/0001.%20TwoSum.h) 
 
 ## linked list
-[AddTwoNumbers](https://github.com/chbyang/Leetcode/blob/master/code/0002AddTwoNumbers.h)
+[AddTwoNumbers](https://github.com/chbyang/Leetcode/blob/master/code/0002.%20AddTwoNumbers.h)
 
 ## sum
-[TWO SUM](https://github.com/chbyang/Leetcode/blob/master/code/0001TwoSum.h) 
+[TWO SUM](https://github.com/chbyang/Leetcode/blob/master/code/0001.%20TwoSum.h) 
