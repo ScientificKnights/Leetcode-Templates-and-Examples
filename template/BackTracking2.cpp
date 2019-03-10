@@ -1,5 +1,4 @@
-
-[image](https://assets.leetcode.com/uploads/2018/12/14/binarytree.png)
+//find note in a tree, return the path to reach this node
 
 bool backtracking(TreeNode* root,vector<TreeNode*> &path,TreeNode* p){	//dfs+backtrack 找p
 	if(root==p) return true;
