@@ -4,14 +4,7 @@ Note: The solution set must not contain duplicate subsets.
 
 Input: nums = [1,2,3]
 Output:
-[  [3],
-  [1],
-  [2],
-  [1,2,3],
-  [1,3],
-  [2,3],
-  [1,2],
-  []  ]
+[  [3],  [1],  [2],  [1,2,3],  [1,3],  [2,3],  [1,2],  []  ]
 */
 
 void helper(vector<vector<int>> &res, vector<int> &nums, vector<int> &path, int cur){
