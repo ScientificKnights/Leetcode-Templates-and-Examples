@@ -4,12 +4,7 @@ Note: The solution set must not contain duplicate subsets.
 
 Input: [1,2,2]
 Output:
-[  [2],
-  [1],
-  [1,2,2],
-  [2,2],
-  [1,2],
-  []  ]
+[  [2],  [1],  [1,2,2],  [2,2],  [1,2],  []  ]
 */
 void helper(vector<vector<int>> &res, const unordered_map<int,int> &m, vector<int> &path, unordered_map<int,int>::iterator cur){
     if(cur==m.end()){
