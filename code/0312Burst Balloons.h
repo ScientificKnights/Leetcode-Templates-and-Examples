@@ -57,7 +57,6 @@ int maxCoins(vector<int>& nums) {
                     // dp[left][right]从 left 到 right都出去后得到的值，k是最后一步的数值。
                     dp[left][right]=max(dp[left][right],data[left-1]*data[k]*data[right+1]+dp[left][k-1]+dp[k+1][right]);
                 }
-
             }
         }
         return dp[1][n-2];
