@@ -63,6 +63,8 @@ Jump Game [I](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/ma
 ### b) 
 ## 14 Deque
 [Sliding Window Max](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0239.%20Sliding%20Window%20Maximum.h)  
+## 15 Bit Manipulation
+[Single Number]() (Similar: [Find the Difference]())
 ## unordered_map
 [TWO SUM](https://github.com/chbyang/Leetcode/blob/master/code/0001.%20TwoSum.h) 
 
