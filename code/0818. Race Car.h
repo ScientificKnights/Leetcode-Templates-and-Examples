@@ -21,6 +21,7 @@ The shortest instruction sequence is "AAARA".
 
 class Solution {
     //1 + 2^1 + 2 ^n = 2^(n+1)-1
+    //use 1<<n, shift优先级小于加减法
     /*
 Note that to apply the definition of T(i) to subproblems, the car has to start with speed of 1. 
 Also we need to make sure the direction of the initial speed when applying T(i) is pointing towards the final target position.
