@@ -14,6 +14,8 @@ ii) 1D扩为2D, state是新的degree, 内存可2D压缩为1D：[Paint Fence](htt
 iii) 对角线推进: [Burst Bolloons](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0312Burst%20Balloons.h) / [Stone Game](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0877.%20Stone%20Game.h) / [Palindrome Partitioning](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0132.%20Palindrome%20Partitioning%20II.h)  
 ### c) Memoizatoin: Top Down
 [Word Break II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0140.%20Word%20Break%20II.h) / [Race Car](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0818.%20Race%20Car.h)  
+### d) 3D
+[Remove Boxes](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0546.%20Remove%20Boxes)
 ## 2. Binary Search
 ### a) 不一定找到：
 [Template 1](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/BinarySearch1.cpp)  
