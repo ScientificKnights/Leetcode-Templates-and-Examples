@@ -27,7 +27,6 @@ private:
             res++;
             return;
         }
-            
         for(int i=0;i<n;i++){
             if(check(r,i,row,col,diag,anti_diag)){
                 update(r,i,row,col,diag,anti_diag,1);
