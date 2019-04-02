@@ -28,7 +28,6 @@ private:
         else
             return false;
     }
-        
     void update(int r, int c,vector<string> & path, vector<int> &row,vector<int> &col,vector<int> &diag,vector<int> &anti_diag, char reset){
         int n=row.size();
         int i=(reset=='Q')?1:0;
@@ -36,14 +35,12 @@ private:
         path[r][c]=reset;
         return;
     }
-    
     void backtrack(vector<vector<string>> &res,vector<string> & path,int r, vector<int> &row,vector<int> &col,vector<int> &diag,vector<int> &anti_diag) {
         int n=path.size();
         if(r==n){
             res.push_back(path);
             return;
         }
-            
         for(int i=0;i<n;i++){
             if(check(r,i,row,col,diag,anti_diag)){
                 update(r,i,path,row,col,diag,anti_diag,'Q');
