@@ -33,8 +33,8 @@ ii) mid>=() return left; 找到的left>=target; left-1<target
 ## 3. DFS
 ### a) grid 
 [Template 1](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/DFS.cpp)  
-### b) greedy
-[Coin Change](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0322.%20Coin%20Change.h) / 
+### b) No backtrack, every try must be correct
+i) Greedy: [Coin Change](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0322.%20Coin%20Change.h) / 
 ## 4. BFS
 
 ## 5. Recursive
