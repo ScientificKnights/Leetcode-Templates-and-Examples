@@ -39,7 +39,8 @@ ii) mid>=() return left; 找到的left>=target; left-1<target
 
 ## 5. Recursive
 When to use: 整体和局部都有相同的性质，利用这些性质。最直接的应用就是tree, palindrome string  
-[Scramble String](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0087.%20Scramble%20String.h)  
+i) Number: [Permutation Sequence]()  
+ii) String: [Scramble String](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0087.%20Scramble%20String.h)  
 
 ## 6. Backtracking
 ### a) 找出所有路径（backtrack 返回void）
