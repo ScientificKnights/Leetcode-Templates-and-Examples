@@ -1,16 +1,16 @@
-/*
-A binary watch has 4 LEDs on the top which represent the hours (0-11), and the 6 LEDs on the bottom represent the minutes (0-59).
-Each LED represents a zero or one, with the least significant bit on the right.
-
-For example, the above binary watch reads "3:25".
-Given a non-negative integer n which represents the number of LEDs that are currently on, 
-return all possible times the watch could represent.
-
-Input: n = 1
-Return: ["1:00", "2:00", "4:00", "8:00", "0:01", "0:02", "0:04", "0:08", "0:16", "0:32"]
-*/
-
 class Solution {
+public:
+    vector<string> readBinaryWatch(int num) {   //BF
+        vector<string> res;
+        for(int i=0;i<12;i++)
+            for(int j=0;j<60;j++){
+                if(bitset<10>(i<<6|j).count()==num)
+                    res.push_back(to_string(i)+":"+((j<10)?"0":"")+to_string(j));
+            }
+        return res;
+    }
+    /*
+//backtrack
 private:
     void add(vector<string> &res, vector<int> &path,int k){
         int min=path[4],hr=path[0];
@@ -43,10 +43,10 @@ private:
         return;
     }
 public:
-    vector<string> readBinaryWatch(int num) {
+    vector<string> readBinaryWatch(int num) {   
         vector<string> res;
         vector<int> path;
         backtrack(res,path,num,num);
         return res;
-    }
+    }*/
 };
