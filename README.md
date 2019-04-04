@@ -68,7 +68,7 @@ i) key,count
 ii) key,position
 [Longest Substring Without Repeating Characters](https://github.com/chbyang/Leetcode/blob/master/code/0003LongestSubstrWithoutRepeatingCharacters.h)  
 ## 8. Two Pointers
-## 9. linked list
+## 9. Linked list
 [AddTwoNumbers](https://github.com/chbyang/Leetcode/blob/master/code/0002.%20AddTwoNumbers.h)
 ## 10. Tree
 
