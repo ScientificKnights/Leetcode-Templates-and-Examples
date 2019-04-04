@@ -15,18 +15,18 @@ Explanation: The longest increasing path is [1, 2, 6, 9].
 
 class Solution {
 public:
-	int dfs(vector<vector<int>>& matrix,vector<vector<int>>& visited,int i,int j){
-        if(visited[i][j]>0) return visited[i][j];
-        int n=matrix.size();
-		int m=matrix[0].size();
-		visited[i][j]=1;
-		vector<int> pos={1,0,-1,0,1};
-		for(int k=0;k<4;k++){
-			int y=i+pos[k],x=j+pos[k+1];
-			if(y>-1 && y<n && x>-1 && x<m && matrix[y][x]>matrix[i][j])
-                visited[i][j]=max(visited[i][j], 1+dfs(matrix,visited,y,x));
-        }
-        return visited[i][j];
+    	int dfs(vector<vector<int>>& matrix,vector<vector<int>>& visited,int i,int j){
+		if(visited[i][j]>0) return visited[i][j];
+		int n=matrix.size();
+			int m=matrix[0].size();
+			visited[i][j]=1;
+			vector<int> pos={1,0,-1,0,1};
+			for(int k=0;k<4;k++){
+				int y=i+pos[k],x=j+pos[k+1];
+				if(y>-1 && y<n && x>-1 && x<m && matrix[y][x]>matrix[i][j])
+			visited[i][j]=max(visited[i][j], 1+dfs(matrix,visited,y,x));
+		}
+		return visited[i][j];
 	}
 	int longestIncreasingPath(vector<vector<int>>& matrix){
 		int n=matrix.size();
