@@ -38,7 +38,7 @@ i) Greedy: [Coin Change](https://github.com/chbyang/Leetcode-Templates-and-Examp
 ## 4. BFS
 [Template]()  
 i) Result related to level  
-ii) Graph can go back to previous node: [Maze I](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0490.%20The%20Maze.h), [II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0505.%20The%20Maze%20II.h)  
+ii) Graph can go back to previous node: [Maze I](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0490.%20The%20Maze.h), [II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0505.%20The%20Maze%20II.h), [III](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0499.%20The%20Maze%20III.h)  
 ### b)
 ## 5. Recursive
 When to use: 整体和局部都有相同的性质，利用这些性质。最直接的应用就是tree, palindrome string  
