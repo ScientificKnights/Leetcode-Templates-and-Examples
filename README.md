@@ -31,11 +31,12 @@ ii) mid>=() return left; 找到的left>=target; left-1<target
 ### c) upper_bound, lower_bound
 [Max Sum of Rectangle No Larger Than K](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0363.%20Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K.h) / [Longest Increasing Subsequence](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0300.%20Longest%20Increasing%20Subsequence.h) (Similar: [Russian Doll Envolopes](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0354.%20Russian%20Doll%20Envelopes.h)) / [Odd Even Jump](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0975.%20Odd%20Even%20Jump.h) / []()  
 ## 3. DFS
+every try must be correct if backtrack not used
 ### a) grid 
 [Template 1](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/DFS.cpp)  
 [Longest Increasing Path in a Matrix](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.h)
-### b) No backtrack, every try must be correct
-i) Greedy: [Coin Change](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0322.%20Coin%20Change.h) / 
+### b) vector
+[Coin Change](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0322.%20Coin%20Change.h) / 
 ## 4. Backtracking
 ### a) 找出所有路径（backtrack 返回void）
 i) 对vector上的元素每个都试一下, O(2^N) [Template 1](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/BackTracking1.cpp)  
@@ -63,8 +64,8 @@ Jump Game [I](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/ma
 [Redundant Connection](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0684.%20Redundant%20Connection.h) / [Friend Circles](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0547.%20Friend%20Circles.h) / [Sentence Similarity II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0737.%20Sentence%20Similarity%20II.h)  
 ## 7. Sliding Window
 [Template](https://github.com/chbyang/Leetcode/blob/master/template/SlidingWindow1.cpp)
-### a) key,count
-### b) key,position
+i) key,count
+ii) key,position
 [Longest Substring Without Repeating Characters](https://github.com/chbyang/Leetcode/blob/master/code/0003LongestSubstrWithoutRepeatingCharacters.h)  
 ## 8. Two Pointers
 ## 9. linked list
@@ -74,8 +75,7 @@ Jump Game [I](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/ma
 ## 11. Stack
 
 ## 12. Queue
-### a)
-### b) 
+
 ## 13. Deque
 [Sliding Window Max](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0239.%20Sliding%20Window%20Maximum.h)  
 ## 14. Unordered_map
