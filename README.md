@@ -36,7 +36,11 @@ ii) mid>=() return left; 找到的left>=target; left-1<target
 ### b) No backtrack, every try must be correct
 i) Greedy: [Coin Change](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0322.%20Coin%20Change.h) / 
 ## 4. BFS
+[Template]()
+i) Result related to level
+ii) Graph can go back to previous node: [Maze I](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0490.%20The%20Maze.h), [II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0505.%20The%20Maze%20II.h)
 
+### b)
 ## 5. Recursive
 When to use: 整体和局部都有相同的性质，利用这些性质。最直接的应用就是tree, palindrome string  
 i) Number: [Permutation Sequence](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0060.%20Permutation%20Sequence.h)  
