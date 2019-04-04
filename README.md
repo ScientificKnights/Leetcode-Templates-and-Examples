@@ -36,17 +36,7 @@ ii) mid>=() return left; 找到的left>=target; left-1<target
 [Longest Increasing Path in a Matrix](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.h)
 ### b) No backtrack, every try must be correct
 i) Greedy: [Coin Change](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0322.%20Coin%20Change.h) / 
-## 4. BFS
-[Template]()  
-i) Result related to level  
-ii) Graph can go back to previous node: [Maze I](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0490.%20The%20Maze.h), [II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0505.%20The%20Maze%20II.h), [III](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0499.%20The%20Maze%20III.h)  
-### b)
-## 5. Recursive
-When to use: 整体和局部都有相同的性质，利用这些性质。最直接的应用就是tree, palindrome string  
-i) Number: [Permutation Sequence](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0060.%20Permutation%20Sequence.h)  
-ii) String: [Scramble String](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0087.%20Scramble%20String.h)  
-
-## 6. Backtracking
+## 4. Backtracking
 ### a) 找出所有路径（backtrack 返回void）
 i) 对vector上的元素每个都试一下, O(2^N) [Template 1](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/BackTracking1.cpp)  
 Combination Sum [I](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0039Combination%20Sum.h), [II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0040Combination%20Sum%20II.h), [III](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0216.%20Combination%20Sum%20III.h) / (Similar: [Shopping Offers](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0638.%20Shopping%20Offers.h)) / Subsets [I](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0078.%20Subsets.h), [II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0090.%20Subsets%20II.h) / [Combinations](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0077.%20Combinations.h) / [Binary Watch](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0401.%20Binary%20Watch.h) / [Palindrome Partitioning](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0131.%20Palindrome%20Partitioning.h) / [Letter Combinations of a Phone Number](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0017.%20Letter%20Combinations%20of%20a%20Phone%20Number.h)  
@@ -57,7 +47,15 @@ iv) tree: [Binary Tree Paths](https://github.com/chbyang/Leetcode-Templates-and-
 [Template 2](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/BackTracking2.cpp)  
 [Lowest Common Ancestor of a Binary Tree](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0236Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.h) / [Word search](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0079.%20Word%20Search.h)  
 ### c) 找出多条路径，组成一个路径
-[Partition to K equal Sum](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0698.%20Partition%20to%20K%20Equal%20Sum%20Subsets.h) / [Course Schedule II]()
+[Partition to K equal Sum](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0698.%20Partition%20to%20K%20Equal%20Sum%20Subsets.h)
+## 5. BFS
+[Template]()  
+i) Result related to level  
+ii) Graph can go back to previous node: [Maze I](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0490.%20The%20Maze.h), [II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0505.%20The%20Maze%20II.h), [III](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0499.%20The%20Maze%20III.h)  
+## 6. Recursive
+When to use: 整体和局部都有相同的性质，利用这些性质。最直接的应用就是tree, palindrome string  
+i) Number: [Permutation Sequence](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0060.%20Permutation%20Sequence.h)  
+ii) String: [Scramble String](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0087.%20Scramble%20String.h)  
 ## 7. Greedy
 Jump Game [I](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0055.%20Jump%20Game.h), [II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0045.%20Jump%20Game%20II.h) / [Course Schedule III]() / [Coin Change](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0322.%20Coin%20Change.h)  
 ## 6. Union Find
@@ -69,27 +67,25 @@ Jump Game [I](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/ma
 ### b) key,position
 [Longest Substring Without Repeating Characters](https://github.com/chbyang/Leetcode/blob/master/code/0003LongestSubstrWithoutRepeatingCharacters.h)  
 ## 8. Two Pointers
+## 9. linked list
+[AddTwoNumbers](https://github.com/chbyang/Leetcode/blob/master/code/0002.%20AddTwoNumbers.h)
+## 10. Tree
 
-## 9. Tree
+## 11. Stack
 
-## 10. Stack
-
-## 13 Queue
+## 12. Queue
 ### a)
 ### b) 
-## 14 Deque
+## 13. Deque
 [Sliding Window Max](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0239.%20Sliding%20Window%20Maximum.h)  
-## 15 Bit Manipulation
-[Single Number]() (Similar: [Find the Difference]())
-## unordered_map
+## 14. Unordered_map
 [TWO SUM](https://github.com/chbyang/Leetcode/blob/master/code/0001.%20TwoSum.h) 
-
-## linked list
-[AddTwoNumbers](https://github.com/chbyang/Leetcode/blob/master/code/0002.%20AddTwoNumbers.h)
-
-## 18 Graph
+## 15. Graph
 ### a)
 ### b) Topological sort
 [Course Schedule I](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0207.%20Course%20Schedule), [II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0210.%20Course%20Schedule%20II.h)  
+## 16. Bit Manipulation
+[Single Number]() (Similar: [Find the Difference]())
+
 ## sum
 [TWO SUM](https://github.com/chbyang/Leetcode/blob/master/code/0001.%20TwoSum.h) 
