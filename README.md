@@ -33,6 +33,7 @@ ii) mid>=() return left; 找到的left>=target; left-1<target
 ## 3. DFS
 ### a) grid 
 [Template 1](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/DFS.cpp)  
+[Longest Increasing Path in a Matrix](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.h)
 ### b) No backtrack, every try must be correct
 i) Greedy: [Coin Change](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0322.%20Coin%20Change.h) / 
 ## 4. BFS
