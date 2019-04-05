@@ -82,7 +82,7 @@ ii) key,position [Longest Substring Without Repeating Characters](https://github
 ### b) Topological sort
 [Course Schedule I](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0207.%20Course%20Schedule), [II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0210.%20Course%20Schedule%20II.h) / [Sequence Reconstruction](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0444.%20Sequence%20Reconstruction.h) / [Alien Dictionary](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0269.%20Alien%20Dictionary.h)  
 ## 16. Bit Manipulation
-[Single Number]() (Similar: [Find the Difference]())
+[Single Number]() (Similar: [Find the Difference]()) / [Convert to Base -2](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1017.%20Convert%20to%20Base%20-2.h)
 
 ## sum
 [Two Sum](https://github.com/chbyang/Leetcode/blob/master/code/0001.%20TwoSum.h) 
