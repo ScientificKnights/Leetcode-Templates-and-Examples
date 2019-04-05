@@ -83,7 +83,7 @@ ii) key,position
 ## 15. Graph
 ### a)
 ### b) Topological sort
-[Course Schedule I](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0207.%20Course%20Schedule), [II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0210.%20Course%20Schedule%20II.h)  
+[Course Schedule I](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0207.%20Course%20Schedule), [II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0210.%20Course%20Schedule%20II.h) / [Sequence Reconstruction](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0444.%20Sequence%20Reconstruction.h)  
 ## 16. Bit Manipulation
 [Single Number]() (Similar: [Find the Difference]())
 
