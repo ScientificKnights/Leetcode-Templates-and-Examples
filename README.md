@@ -44,7 +44,7 @@ iii) O(N!): Permutations [I](https://github.com/chbyang/Leetcode-Templates-and-E
 iv) tree: [Binary Tree Paths](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0257.%20Binary%20Tree%20Paths.h)  
 ### b) 找出一条路径（backtrack 返回 bool）
 [Template 2](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/BackTracking2.cpp)  
-[Lowest Common Ancestor of a Binary Tree](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0236Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.h) / [Word search](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0079.%20Word%20Search.h)  
+[Lowest Common Ancestor of a Binary Tree](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0236Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.h) / [Word search](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0079.%20Word%20Search.h) / [Reconstruct Itinerary](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0332.%20Reconstruct%20Itinerary.h)  
 ### c) 找出多条路径，组成一个路径
 [Partition to K equal Sum](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0698.%20Partition%20to%20K%20Equal%20Sum%20Subsets.h)
 ## 5. BFS
