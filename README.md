@@ -49,7 +49,7 @@ iv) tree: [Binary Tree Paths](https://github.com/chbyang/Leetcode-Templates-and-
 [Partition to K equal Sum](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0698.%20Partition%20to%20K%20Equal%20Sum%20Subsets.h)
 ## 5. BFS
 [Template]()  
-i) Result related to level: [01 Matrix](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0542.%2001%20Matrix.h)  
+i) Result related to level: [01 Matrix](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0542.%2001%20Matrix.h) / [Is Graph Bipartite?](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0785.%20Is%20Graph%20Bipartite.h)  
 ii) Graph can go back to previous node: [Maze I](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0490.%20The%20Maze.h), [II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0505.%20The%20Maze%20II.h), [III](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0499.%20The%20Maze%20III.h)  
 ## 6. Recursive
 When to use: 整体和局部都有相同的性质，利用这些性质。最直接的应用就是tree, palindrome string  
@@ -78,9 +78,10 @@ ii) key,position [Longest Substring Without Repeating Characters](https://github
 ## 14. Unordered_map
 [TWO SUM](https://github.com/chbyang/Leetcode/blob/master/code/0001.%20TwoSum.h) 
 ## 15. Graph
-### a)
+### a) Djikstra
+use priority queue in BFS rather than queue to integrate cost: [Network Delay Time]()
 ### b) Topological sort
-[Course Schedule I](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0207.%20Course%20Schedule), [II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0210.%20Course%20Schedule%20II.h) / [Sequence Reconstruction](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0444.%20Sequence%20Reconstruction.h) / [Alien Dictionary](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0269.%20Alien%20Dictionary.h)  
+indegree is similar to level in BFS: [Course Schedule I](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0207.%20Course%20Schedule), [II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0210.%20Course%20Schedule%20II.h) / [Sequence Reconstruction](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0444.%20Sequence%20Reconstruction.h) / [Alien Dictionary](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0269.%20Alien%20Dictionary.h)  
 ## 16. Bit Manipulation
 [Single Number]() (Similar: [Find the Difference]()) / [Convert to Base -2](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1017.%20Convert%20to%20Base%20-2.h) https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently
 
