@@ -31,9 +31,9 @@ ii) mid>=() return left; 找到的left>=target; left-1<target
 ### c) upper_bound, lower_bound
 [Max Sum of Rectangle No Larger Than K](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0363.%20Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K.h) / [Longest Increasing Subsequence](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0300.%20Longest%20Increasing%20Subsequence.h) (Similar: [Russian Doll Envolopes](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0354.%20Russian%20Doll%20Envelopes.h)) / [Odd Even Jump](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0975.%20Odd%20Even%20Jump.h) / []()  
 ## 3. DFS
-every try must be correct if backtrack not used
+every try must be correct if backtrack not used  
 i) grid [Template 1](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/DFS.cpp)  
-[Longest Increasing Path in a Matrix](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.h)
+[Longest Increasing Path in a Matrix](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.h)  
 ii) vector [Coin Change](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0322.%20Coin%20Change.h) / 
 ## 4. Backtracking
 ### a) 找出所有路径（backtrack 返回void）
@@ -85,4 +85,4 @@ ii) key,position [Longest Substring Without Repeating Characters](https://github
 [Single Number]() (Similar: [Find the Difference]())
 
 ## sum
-[TWO SUM](https://github.com/chbyang/Leetcode/blob/master/code/0001.%20TwoSum.h) 
+[Two Sum](https://github.com/chbyang/Leetcode/blob/master/code/0001.%20TwoSum.h) 
