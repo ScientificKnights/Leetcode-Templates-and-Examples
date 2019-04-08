@@ -49,10 +49,10 @@ iv) tree: [Binary Tree Paths](https://github.com/chbyang/Leetcode-Templates-and-
 [Partition to K equal Sum](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0698.%20Partition%20to%20K%20Equal%20Sum%20Subsets.h)
 ## 5. BFS
 ### a) Result related to level
-i) Grid [Template](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/BFS.cpp)  
+i) Grid: [Template](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/BFS.cpp)  
 [Walls and Gates](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0286.%20Walls%20and%20Gates.h) / [01 Matrix](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0542.%2001%20Matrix.h) /  
-ii) Vector [Snakes and Ladders](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0909.%20Snakes%20and%20Ladders.h) /  
-iii) Graph [Is Graph Bipartite?](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0785.%20Is%20Graph%20Bipartite.h)  
+ii) Vector: [Snakes and Ladders](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0909.%20Snakes%20and%20Ladders.h) /  
+iii) Graph: [Is Graph Bipartite?](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0785.%20Is%20Graph%20Bipartite.h)  
 ### b) Graph can go back to previous node: 
 [Maze I](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0490.%20The%20Maze.h), [II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0505.%20The%20Maze%20II.h), [III](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0499.%20The%20Maze%20III.h)  
 ### c) Bidirectional: 
