@@ -71,26 +71,31 @@ Jump Game [I](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/ma
 i) key,count  
 ii) key,position [Longest Substring Without Repeating Characters](https://github.com/chbyang/Leetcode/blob/master/code/0003LongestSubstrWithoutRepeatingCharacters.h)  
 ## 8. Two Pointers
-## 9. Linked list
+## 9. String
+## 10. Linked list
 [AddTwoNumbers](https://github.com/chbyang/Leetcode/blob/master/code/0002.%20AddTwoNumbers.h)
-## 10. Tree
-i) Recursive: [Balanced Binary Tree](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0110.%20Balanced%20Binary%20Tree.h) / [Longest Univalue Path](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0687.%20Longest%20Univalue%20Path.h) 
+## 11. Tree
+i) Recursive: [Balanced Binary Tree](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0110.%20Balanced%20Binary%20Tree.h) / [Longest Univalue Path](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0687.%20Longest%20Univalue%20Path.h)  
 ii) Recursive+dfs: [Subtree of Another Tree](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0572.%20Subtree%20of%20Another%20Tree.h) / [Path Sum III](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0437.%20Path%20Sum%20III.h)  
 iii) Iterative traversal: [Binary Tree Inorder Traversal](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0094.%20Binary%20Tree%20Inorder%20Traversal.h) (Similar: [Binary Tree Preorder](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0144.%20Binary%20Tree%20Preorder%20Traversal.h), [Binary Tree Postorder](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0145.%20Binary%20Tree%20Postorder%20Traversal.h), [Binary Tree Level Order II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.h), [Vertical Order Traversal of a Binary Tree](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.h), [N-ary Tree Postorder](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0590.%20N-ary%20Tree%20Postorder%20Traversal.h), [N-ary Tree Level Order](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0429.%20N-ary%20Tree%20Level%20Order%20Traversal.h)) / [Leaf-Similar Trees](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0872.%20Leaf-Similar%20Trees.h)  
-## 11. Stack
+### b) Tire Tree
+### c) Segment Tree
+## 12. Stack
 
-## 12. Queue
+## 13. Queue
 
-## 13. Deque
+## 14. Priority_queue
+
+## 15. Deque
 [Sliding Window Max](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0239.%20Sliding%20Window%20Maximum.h)  
-## 14. Unordered_map
+## 16. Map / Unordered_map
 [TWO SUM](https://github.com/chbyang/Leetcode/blob/master/code/0001.%20TwoSum.h) 
-## 15. Graph
+## 17. Graph
 ### a) Djikstra
 use priority queue in BFS rather than queue to integrate cost: [Network Delay Time]()
 ### b) Topological sort
 indegree is similar to level in BFS: [Course Schedule I](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0207.%20Course%20Schedule), [II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0210.%20Course%20Schedule%20II.h) / [Sequence Reconstruction](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0444.%20Sequence%20Reconstruction.h) / [Alien Dictionary](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0269.%20Alien%20Dictionary.h)  
-## 16. Bit Manipulation
+## 18. Bit Manipulation
 [Single Number]() (Similar: [Find the Difference]()) / [Convert to Base -2](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1017.%20Convert%20to%20Base%20-2.h) https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently
 
 ## sum
