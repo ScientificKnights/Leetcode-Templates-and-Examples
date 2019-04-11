@@ -50,7 +50,7 @@ iv) tree: [Binary Tree Paths](https://github.com/chbyang/Leetcode-Templates-and-
 ## 5. BFS
 ### a) Result related to level
 i) Grid: [Template](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/BFS.cpp)  
-[Walls and Gates](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0286.%20Walls%20and%20Gates.h) / [01 Matrix](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0542.%2001%20Matrix.h) /  
+[Walls and Gates](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0286.%20Walls%20and%20Gates.h) / [01 Matrix](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0542.%2001%20Matrix.h) / [Sliding Puzzle](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0773.%20Sliding%20Puzzle.h)  
 ii) Vector: [Snakes and Ladders](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0909.%20Snakes%20and%20Ladders.h) /  
 iii) Graph: [Is Graph Bipartite?](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0785.%20Is%20Graph%20Bipartite.h)  
 ### b) Graph can go back to previous node: 
