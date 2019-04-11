@@ -80,8 +80,12 @@ ii) Recursive+dfs: [Subtree of Another Tree](https://github.com/chbyang/Leetcode
 iii) Iterative traversal: [Binary Tree Inorder Traversal](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0094.%20Binary%20Tree%20Inorder%20Traversal.h) (Similar: [Binary Tree Preorder](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0144.%20Binary%20Tree%20Preorder%20Traversal.h), [Binary Tree Postorder](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0145.%20Binary%20Tree%20Postorder%20Traversal.h), [Binary Tree Level Order II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0107.%20Binary%20Tree%20Level%20Order%20Traversal%20II.h), [Vertical Order Traversal of a Binary Tree](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0987.%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.h), [N-ary Tree Postorder](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0590.%20N-ary%20Tree%20Postorder%20Traversal.h), [N-ary Tree Level Order](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0429.%20N-ary%20Tree%20Level%20Order%20Traversal.h)) / [Leaf-Similar Trees](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0872.%20Leaf-Similar%20Trees.h)  
 iv) DP: [House Robber III](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0337.%20House%20Robber%20III.h) / [Binary Tree Cameras](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0968.%20Binary%20Tree%20Cameras.h)
 ### b) Binary Search Tree
+i) Find number: [Insert into a Binary Search Tree](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0701.%20Insert%20into%20a%20Binary%20Search%20Tree.h) / 
+
 [Lowest Common Ancestor of BST](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.h)
+ii) Traversal: [Minimum Distance Between BST Nodes](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0783.%20Minimum%20Distance%20Between%20BST%20Nodes.h) / 
 ### b) Tire Tree
+
 ### c) Segment Tree
 ## 12. Stack
 
