@@ -19,22 +19,20 @@ The BST is always valid, each node's value is an integer, and each node's value 
 
 class Solution {
 private:
-    bool flag=0;    //whether first run or not
-    long last;
     long res=INT_MAX;
-    void diff(TreeNode* root){
+    void diff(TreeNode* root,TreeNode* &prev){
         if(!root) return;
-        diff(root->left);
-        if(flag)        //not first time
-            res=min(res,(long)root->val-last);
-        last=root->val;
-        flag=1;
-        diff(root->right);
+        diff(root->left,prev);
+        if(prev)        //not first time
+            res=min(res,(long)root->val-prev->val);
+        prev=root;
+        diff(root->right,prev);
         return;
     }
 public:
     int minDiffInBST(TreeNode* root) {
-        diff(root);
+        TreeNode *prev=NULL;
+        diff(root, prev);
         return (int)res;
     }
 };
