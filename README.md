@@ -63,18 +63,18 @@ i) Number: [Permutation Sequence](https://github.com/chbyang/Leetcode-Templates-
 ii) String: [Scramble String](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0087.%20Scramble%20String.h)  
 ## 7. Greedy
 Jump Game [I](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0055.%20Jump%20Game.h), [II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0045.%20Jump%20Game%20II.h) / [Video Stitching](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1024.%20Video%20Stitching.h) / [Course Schedule III](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0630.%20Course%20Schedule%20III.h) / [Coin Change](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0322.%20Coin%20Change.h)  
-## 6. Union Find
+## 8. Union Find
 [Template](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/UnionFind.cpp)  
 [Redundant Connection](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0684.%20Redundant%20Connection.h) / [Friend Circles](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0547.%20Friend%20Circles.h) / [Sentence Similarity II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0737.%20Sentence%20Similarity%20II.h) / [Most Stones Removed with Same Row or Column](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0947.%20Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column.h)  
-## 7. Sliding Window
+## 9. Sliding Window
 [Template](https://github.com/chbyang/Leetcode/blob/master/template/SlidingWindow1.cpp)  
 i) key,count  
 ii) key,position [Longest Substring Without Repeating Characters](https://github.com/chbyang/Leetcode/blob/master/code/0003LongestSubstrWithoutRepeatingCharacters.h)  
-## 8. Two Pointers
-## 9. String
-## 10. Linked list
+## 10. Two Pointers
+## 11. String
+## 12. Linked list
 [AddTwoNumbers](https://github.com/chbyang/Leetcode/blob/master/code/0002.%20AddTwoNumbers.h)
-## 11. Tree
+## 13. Tree
 ### a) Binary Tree
 i) Recursive: [Balanced Binary Tree](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0110.%20Balanced%20Binary%20Tree.h) / [Longest Univalue Path](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0687.%20Longest%20Univalue%20Path.h) (Similar: [Binary Tree Maximum Path Sum](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0124.%20Binary%20Tree%20Maximum%20Path%20Sum.h) / [Distribute Coins in Binary Tree](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0979.%20Distribute%20Coins%20in%20Binary%20Tree.h)) / [Lowest Common Ancestor of a Binary Tree](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0236Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.h)  
 ii) Recursive+dfs: [Subtree of Another Tree](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0572.%20Subtree%20of%20Another%20Tree.h) / [Path Sum III](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0437.%20Path%20Sum%20III.h)  
