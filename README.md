@@ -98,7 +98,7 @@ iii) Range: [Lowest Common Ancestor of BST](https://github.com/chbyang/Leetcode-
 [TWO SUM](https://github.com/chbyang/Leetcode/blob/master/code/0001.%20TwoSum.h) 
 ## 17. Graph
 ### a) Djikstra
-use priority queue in BFS rather than queue to integrate cost: [Network Delay Time]()
+[Template](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/Dijkstra.cpp) use priority queue in BFS rather than queue to integrate cost: [Network Delay Time](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0743.%20Network%20Delay%20Time.h)
 ### b) Topological sort
 indegree is similar to level in BFS: [Course Schedule I](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0207.%20Course%20Schedule), [II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0210.%20Course%20Schedule%20II.h) / [Sequence Reconstruction](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0444.%20Sequence%20Reconstruction.h) / [Alien Dictionary](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0269.%20Alien%20Dictionary.h) / [Find Eventual Safe States](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0802.%20Find%20Eventual%20Safe%20States.h)  
 ## 18. Bit Manipulation
