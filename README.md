@@ -72,10 +72,12 @@ i) key,count
 ii) key,position [Longest Substring Without Repeating Characters](https://github.com/chbyang/Leetcode/blob/master/code/0003LongestSubstrWithoutRepeatingCharacters.h)  
 ## 10. Two Pointers
 4 pointers [Expressive Words](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0809.%20Expressive%20Words.h)  
-## 11. String
-## 12. Linked list
+## 11. Array
+[Find the Celebrity](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0277.%20Find%20the%20Celebrity.h)
+## 12. String
+## 13. Linked list
 [AddTwoNumbers](https://github.com/chbyang/Leetcode/blob/master/code/0002.%20AddTwoNumbers.h)
-## 13. Tree
+## 14. Tree
 ### a) Binary Tree
 i) Recursive: [Balanced Binary Tree](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0110.%20Balanced%20Binary%20Tree.h) / [Longest Univalue Path](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0687.%20Longest%20Univalue%20Path.h) (Similar: [Binary Tree Maximum Path Sum](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0124.%20Binary%20Tree%20Maximum%20Path%20Sum.h) / [Distribute Coins in Binary Tree](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0979.%20Distribute%20Coins%20in%20Binary%20Tree.h)) / [Lowest Common Ancestor of a Binary Tree](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0236Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.h) / [All Possible Full Binary Trees](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0894.%20All%20Possible%20Full%20Binary%20Trees.h)  
 ii) Recursive+dfs: [Subtree of Another Tree](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0572.%20Subtree%20of%20Another%20Tree.h) / [Path Sum III](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0437.%20Path%20Sum%20III.h)  
