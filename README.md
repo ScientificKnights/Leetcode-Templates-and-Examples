@@ -71,6 +71,7 @@ Jump Game [I](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/ma
 i) key,count  
 ii) key,position [Longest Substring Without Repeating Characters](https://github.com/chbyang/Leetcode/blob/master/code/0003LongestSubstrWithoutRepeatingCharacters.h)  
 ## 10. Two Pointers
+4 pointers [Expressive Words](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0809.%20Expressive%20Words.h)  
 ## 11. String
 ## 12. Linked list
 [AddTwoNumbers](https://github.com/chbyang/Leetcode/blob/master/code/0002.%20AddTwoNumbers.h)
