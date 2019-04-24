@@ -77,6 +77,7 @@ ii) key,position [Longest Substring Without Repeating Characters](https://github
 ## 11. Array
 [Find the Celebrity](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0277.%20Find%20the%20Celebrity.h)
 ## 12. String
+i) find: [Repeated Substring Pattern](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0459.%20Repeated%20Substring%20Pattern.h)  
 ## 13. Linked list
 [AddTwoNumbers](https://github.com/chbyang/Leetcode/blob/master/code/0002.%20AddTwoNumbers.h)
 ## 14. Tree
