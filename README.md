@@ -88,7 +88,7 @@ i) Find number: [Insert into a Binary Search Tree](https://github.com/chbyang/Le
 ii) Traversal: [Minimum Distance Between BST Nodes](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0783.%20Minimum%20Distance%20Between%20BST%20Nodes.h) (Similar: [Find Mode in BST](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0501.%20Find%20Mode%20in%20Binary%20Search%20Tree.h), [Validate BST](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0098.%20Validate%20Binary%20Search%20Tree.h), [Kth Smallest Element in a BST](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0230.%20Kth%20Smallest%20Element%20in%20a%20BST.h))  
 iii) Range: [Lowest Common Ancestor of BST](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.h) / [Validate BST](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0098.%20Validate%20Binary%20Search%20Tree.h) / [Convert BST to Sorted Doubly Linked List](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0426.%20Convert%20Binary%20Search%20Tree%20to%20Sorted%20Doubly%20Linked%20List.h)  
 ### c) Tire Tree
-[Implement Trie (Prefix Tree)](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0208.%20Implement%20Trie%20(Prefix%20Tree).h)
+[Implement Trie (Prefix Tree)](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0208.%20Implement%20Trie%20(Prefix%20Tree).h) / [Stream of Characters](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1032.%20Stream%20of%20Characters.h)
 ### d) Segment Tree
 ## 12. Stack
 
