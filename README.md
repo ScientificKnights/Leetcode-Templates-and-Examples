@@ -93,16 +93,11 @@ iii) Range: [Lowest Common Ancestor of BST](https://github.com/chbyang/Leetcode-
 ### c) Tire Tree
 [Palindrome Pairs](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0336.%20Palindrome%20Pairs.h) / [Implement Trie (Prefix Tree)](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0208.%20Implement%20Trie%20(Prefix%20Tree).h) / [Stream of Characters](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1032.%20Stream%20of%20Characters.h) / [Prefix and Suffix Search](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0745.%20Prefix%20and%20Suffix%20Search.h)  
 ### d) Segment Tree
-## 12. Stack
+## 15. Stack / Queue / Priority_queue / Deque
 
-## 13. Queue
-
-## 14. Priority_queue
-
-## 15. Deque
-[Sliding Window Max](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0239.%20Sliding%20Window%20Maximum.h)  
-## 16. Map / Unordered_map
-[TWO SUM](https://github.com/chbyang/Leetcode/blob/master/code/0001.%20TwoSum.h) 
+iv) Deque [Sliding Window Max](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0239.%20Sliding%20Window%20Maximum.h)  
+## 16. Map / Unordered_map / Set / Unordered_set
+[Longest Word in Dictionary](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0720.%20Longest%20Word%20in%20Dictionary.h) / [TWO SUM](https://github.com/chbyang/Leetcode/blob/master/code/0001.%20TwoSum.h) 
 ## 17. Graph
 ### a) Djikstra
 [Template](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/Dijkstra.cpp) use priority queue in BFS rather than queue to integrate cost  
