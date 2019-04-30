@@ -48,7 +48,7 @@ iv) tree: [Binary Tree Paths](https://github.com/chbyang/Leetcode-Templates-and-
 [Template 2](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/BackTracking2.cpp)  
 [Lowest Common Ancestor of a Binary Tree](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0236Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.h) / [Word search](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0079.%20Word%20Search.h) / [Reconstruct Itinerary](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0332.%20Reconstruct%20Itinerary.h)  
 ### c) 找出多条路径，组成一个路径
-[Partition to K equal Sum](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0698.%20Partition%20to%20K%20Equal%20Sum%20Subsets.h)
+[Partition to K equal Sum](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0698.%20Partition%20to%20K%20Equal%20Sum%20Subsets.h) / [Pyramid Transition Matrix](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0756.%20Pyramid%20Transition%20Matrix.h)
 ## 5. BFS
 ### a) Result related to level
 i) Grid: [Template](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/BFS.cpp)  
