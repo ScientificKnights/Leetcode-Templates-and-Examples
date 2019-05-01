@@ -14,16 +14,19 @@ Output: 99
 */
 
 int singleNumber(vector<int>& nums) {
-    //a b c = a b
-    //0 0 0   0 0
-    //0 1 0   0 1
-    //1 0 0   1 0
-    //0 0 1   0 1
-    //0 1 1   1 0
-    //1 0 1   0 0
+    //a b num -> a b
+    //0 0  0     0 0
+    //0 1  0     0 1
+    //1 0  0     1 0
+    //0 0  1     0 1
+    //0 1  1     1 0
+    //1 0  1     0 0
     //a= b&c+a&~c
     //b= (~(a^b))&c+b&~c
-    //加号是 |
+    //加号是 |  
+    //或者
+    //a = a&~b&~c + ~a&b&c;
+    //b = ~a&b&~c + ~a&~b&c;
     int a=0,b=0;
     for(auto i:nums){
         int temp=a;
