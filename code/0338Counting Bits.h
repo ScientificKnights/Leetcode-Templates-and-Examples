@@ -6,10 +6,23 @@ Input: 5
 Output: [0,1,1,2,1,2]
 */
 
-vector<int> countBits(int num) {
-//result[i]=result[i/2]+i%2
-    vector<int> result(num+1,0);
-    for(int i=1;i<num+1;i++)
-        result[i]=result[i/2]+i%2;
-    return result;
-}
+class Solution {
+public:
+    //BF O(n*k)
+    /*
+    //DP O(N)
+    vector<int> countBits(int num) {
+        vector<int> result(num+1,0);
+        for(int i=1;i<num+1;i++)
+            result[i]=result[i/2]+i%2;
+        return result;
+    }
+    */
+    //求1个数： while(N) { N= N&(N-1); count++}
+    vector<int> countBits(int num) {
+        vector<int> result(num+1,0);
+        for(int i=1;i<num+1;i++)
+            result[i]=result[i&(i-1)]+1;
+        return result;
+    }
+};
