@@ -35,7 +35,7 @@ ii) mid>=() return left; 找到的left>=target; left-1<target
 ## 3. DFS
 every try must be correct if backtrack not used  
 i) grid [Template 1](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/DFS.cpp)  
-[Longest Increasing Path in a Matrix](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.h) / [Making A Large Island](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0827.%20Making%20A%20Large%20Island.h)  
+[Longest Increasing Path in a Matrix](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0329.%20Longest%20Increasing%20Path%20in%20a%20Matrix.h) / [Making A Large Island](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0827.%20Making%20A%20Large%20Island.h) / [Coloring A Border](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1034.%20Coloring%20A%20Border.h)  
 ii) vector [Coin Change](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0322.%20Coin%20Change.h) / 
 ## 4. Backtracking
 ### a) 找出所有路径（backtrack 返回void）
