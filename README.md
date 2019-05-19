@@ -96,6 +96,8 @@ iii) Range: [Lowest Common Ancestor of BST](https://github.com/chbyang/Leetcode-
 ### d) Segment Tree
 ## 15. Stack / Queue / Priority_queue / Deque
 i) Stack [Remove All Adjacent Duplicates In String](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.h) / [Basic Calculator III](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0772.%20Basic%20Calculator%20III.h)  
+
+iii) Priority_queue [Last Stone Weight](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1046.%20Last%20Stone%20Weight.h)  
 iv) Deque [Sliding Window Max](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0239.%20Sliding%20Window%20Maximum.h)  
 ## 16. Map / Unordered_map / Set / Unordered_set
 [Longest Word in Dictionary](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0720.%20Longest%20Word%20in%20Dictionary.h) / [TWO SUM](https://github.com/chbyang/Leetcode/blob/master/code/0001.%20TwoSum.h) 
