@@ -18,8 +18,8 @@ vector<int> rearrangeBarcodes(vector<int>& barcodes) {
     for(auto i:m) s.insert({i.second,i.first});
     vector<int> res(n);
     int pos=0;
-    for(auto ii=s.rbegin(); ii!=s.rend();++ii){
-        for(int i=0;i< (*ii).first;i++){
+    for(auto ii=s.rbegin(); ii!=s.rend(); ++ii){
+        for(int i=0; i<(*ii).first; i++){
             if(pos>=n) pos=1;
             res[pos]=(*ii).second;
             pos+=2;
