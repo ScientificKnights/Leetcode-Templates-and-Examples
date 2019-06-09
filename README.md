@@ -101,7 +101,7 @@ i) Stack [Maximum Width Ramp](https://github.com/chbyang/Leetcode-Templates-and-
 iii) Priority_queue [Last Stone Weight](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1046.%20Last%20Stone%20Weight.h)  
 iv) Deque [Sliding Window Max](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0239.%20Sliding%20Window%20Maximum.h)  
 ## 16. Map / Unordered_map / Set / Unordered_set
-[Longest Word in Dictionary](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0720.%20Longest%20Word%20in%20Dictionary.h) / [TWO SUM](https://github.com/chbyang/Leetcode/blob/master/code/0001.%20TwoSum.h) / [Flip Columns For Maximum Number of Equal Rows](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1072.%20Flip%20Columns%20For%20Maximum%20Number%20of%20Equal%20Rows.h)  
+[Longest Word in Dictionary](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0720.%20Longest%20Word%20in%20Dictionary.h) / [Flip Columns For Maximum Number of Equal Rows](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1072.%20Flip%20Columns%20For%20Maximum%20Number%20of%20Equal%20Rows.h)  
 ## 17. Graph
 ### a) Djikstra
 [Template](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/Dijkstra.cpp) use priority queue in BFS rather than queue to integrate cost  
@@ -113,6 +113,8 @@ Count one [Counting Bits](https://github.com/chbyang/Leetcode-Templates-and-Exam
 Bitset [Binary String With Substrings Representing 1 To N](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1016.%20Binary%20String%20With%20Substrings%20Representing%201%20To%20N.h)  
 https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently
 ## Sum
-[Two Sum](https://github.com/chbyang/Leetcode/blob/master/code/0001.%20TwoSum.h)  
+[Two Sum](https://github.com/chbyang/Leetcode/blob/master/code/0001.%20TwoSum.h) / [Number of Submatrices That Sum to Target](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1074.%20Number%20of%20Submatrices%20That%20Sum%20to%20Target.h)  
+## Matrix
+[Number of Submatrices That Sum to Target](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1074.%20Number%20of%20Submatrices%20That%20Sum%20to%20Target.h)  
 ## Overlap
 [Rectangle Area](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0223.%20Rectangle%20Area.h) (Similar: [Rectangle Overlap](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0836.%20Rectangle%20Overlap))
