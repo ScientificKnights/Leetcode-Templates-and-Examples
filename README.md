@@ -115,6 +115,6 @@ https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how
 ## Sum
 [Two Sum](https://github.com/chbyang/Leetcode/blob/master/code/0001.%20TwoSum.h) / [Number of Submatrices That Sum to Target](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1074.%20Number%20of%20Submatrices%20That%20Sum%20to%20Target.h)  
 ## Matrix
-[Number of Submatrices That Sum to Target](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1074.%20Number%20of%20Submatrices%20That%20Sum%20to%20Target.h)  
+[Number of Submatrices That Sum to Target](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1074.%20Number%20of%20Submatrices%20That%20Sum%20to%20Target.h) / [Range Sum Query 2D - Mutable](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0308.%20Range%20Sum%20Query%202D%20-%20Mutable.h), [- Immutable](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0304.%20Range%20Sum%20Query%202D%20-%20Immutable.h) /   
 ## Overlap
 [Rectangle Area](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0223.%20Rectangle%20Area.h) (Similar: [Rectangle Overlap](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0836.%20Rectangle%20Overlap))
