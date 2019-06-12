@@ -71,7 +71,7 @@ Jump Game [I](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/ma
 ## 9. Sliding Window
 [Template](https://github.com/chbyang/Leetcode/blob/master/template/SlidingWindow1.cpp)  
 i) position [Grumpy Bookstore Owner](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1052.%20Grumpy%20Bookstore%20Owner.h) / [Max Consecutive Ones III](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1004.%20Max%20Consecutive%20Ones%20III.h)  
-ii) unordered_map [Longest Substring Without Repeating Characters](https://github.com/chbyang/Leetcode/blob/master/code/0003LongestSubstrWithoutRepeatingCharacters.h)  
+ii) unordered_map [Longest Substring Without Repeating Characters](https://github.com/chbyang/Leetcode/blob/master/code/0003LongestSubstrWithoutRepeatingCharacters.h) (Similar: [Longest Substring with At Most K Distinct](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0340.%20Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters.h), []() )  
 ## 10. Two Pointers
 [Camelcase Matching](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1023.%20Camelcase%20Matching) /[Expressive Words](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0809.%20Expressive%20Words.h) / [Interval List Intersections](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0986.%20Interval%20List%20Intersections.h) / [Shortest Way to Form String](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1055.%20Shortest%20Way%20to%20Form%20String.h)  
 ## 11. Array
