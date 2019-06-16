@@ -77,8 +77,8 @@ ii) unordered_map [Longest Substring Without Repeating Characters](https://githu
 ## 11. Array
 [Find the Celebrity](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0277.%20Find%20the%20Celebrity.h)
 ## 12. String
-i) find: [Repeated Substring Pattern](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0459.%20Repeated%20Substring%20Pattern.h)  
-ii) other: [Greatest Common Divisor of Strings](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1071.%20Greatest%20Common%20Divisor%20of%20Strings.h)
+i) find: [Repeated Substring Pattern](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0459.%20Repeated%20Substring%20Pattern.h) reverse: [Reverse Words in a String](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0151.%20Reverse%20Words%20in%20a%20String.h)  
+ii) other: [Greatest Common Divisor of Strings](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1071.%20Greatest%20Common%20Divisor%20of%20Strings.h)  
 iii) stringstream: [Serialize and Deserialize Binary Tree](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0297.%20Serialize%20and%20Deserialize%20Binary%20Tree.h)  
 ## 13. Linked list
 [AddTwoNumbers](https://github.com/chbyang/Leetcode/blob/master/code/0002.%20AddTwoNumbers.h)
