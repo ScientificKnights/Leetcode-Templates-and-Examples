@@ -101,7 +101,10 @@ i) Stack [Maximum Width Ramp](https://github.com/chbyang/Leetcode-Templates-and-
 iii) Priority_queue [Last Stone Weight](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1046.%20Last%20Stone%20Weight.h)  
 iv) Deque [Sliding Window Max](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0239.%20Sliding%20Window%20Maximum.h)  
 ## 16. Map / Unordered_map / Set / Unordered_set
-[Longest Word in Dictionary](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0720.%20Longest%20Word%20in%20Dictionary.h) / [Flip Columns For Maximum Number of Equal Rows](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1072.%20Flip%20Columns%20For%20Maximum%20Number%20of%20Equal%20Rows.h)  
+i) Map [Max Stack](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0716.%20Max%20Stack.h)
+ii) Unordered_map [Flip Columns For Maximum Number of Equal Rows](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1072.%20Flip%20Columns%20For%20Maximum%20Number%20of%20Equal%20Rows.h)  
+iii) Set [Rectangle Area II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0850.%20Rectangle%20Area%20II.h)  
+iv) Unordred_set [Longest Word in Dictionary](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0720.%20Longest%20Word%20in%20Dictionary.h) /  
 ## 17. Graph
 ### a) Djikstra
 [Template](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/Dijkstra.cpp) use priority queue in BFS rather than queue to integrate cost  
