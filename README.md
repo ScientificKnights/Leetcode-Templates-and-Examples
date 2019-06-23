@@ -103,7 +103,7 @@ iii) Priority_queue [Last Stone Weight](https://github.com/chbyang/Leetcode-Temp
 iv) Deque [Sliding Window Max](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0239.%20Sliding%20Window%20Maximum.h)  
 ## 16. Map / Unordered_map / Set / Unordered_set
 i) Map [Max Stack](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0716.%20Max%20Stack.h)  
-ii) Unordered_map [Flip Columns For Maximum Number of Equal Rows](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1072.%20Flip%20Columns%20For%20Maximum%20Number%20of%20Equal%20Rows.h) / [Contiguous Array](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0525.%20Contiguous%20Array.h) / [Subarray Sums Divisible by K](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0947.%20Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column.h)  
+ii) Unordered_map [Flip Columns For Maximum Number of Equal Rows](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1072.%20Flip%20Columns%20For%20Maximum%20Number%20of%20Equal%20Rows.h) / [Contiguous Array](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0525.%20Contiguous%20Array.h) / [Subarray Sums Divisible by K](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0974.%20Subarray%20Sums%20Divisible%20by%20K.h)  
 iii) Set [Rectangle Area II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0850.%20Rectangle%20Area%20II.h)  
 iv) Unordred_set [Longest Word in Dictionary](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0720.%20Longest%20Word%20in%20Dictionary.h) /  
 ## 17. Graph
