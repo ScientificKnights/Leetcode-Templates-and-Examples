@@ -118,6 +118,8 @@ Bitset [Binary String With Substrings Representing 1 To N](https://github.com/ch
 https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently
 ## Sum
 [Two Sum](https://github.com/chbyang/Leetcode/blob/master/code/0001.%20TwoSum.h) (Similar: [Split Array with Equal Sum](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0548.%20Split%20Array%20with%20Equal%20Sum.h) )/ [Number of Submatrices That Sum to Target](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1074.%20Number%20of%20Submatrices%20That%20Sum%20to%20Target.h) / [Count of Range Sum](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0327.%20Count%20of%20Range%20Sum.h)  
+## Sort
+i) merge sort [Reverse Pair](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0493.%20Reverse%20Pairs.h) / [Count of Range Sum](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0327.%20Count%20of%20Range%20Sum.h) / []()  
 ## Matrix
 [Number of Submatrices That Sum to Target](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1074.%20Number%20of%20Submatrices%20That%20Sum%20to%20Target.h) / [Range Sum Query 2D - Mutable](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0308.%20Range%20Sum%20Query%202D%20-%20Mutable.h), [- Immutable](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0304.%20Range%20Sum%20Query%202D%20-%20Immutable.h) /   
 ## Overlap
