@@ -21,16 +21,12 @@ vector<int> findDiagonalOrder(vector<vector<int>>& matrix) {
     if(!n) return res;
     int m=matrix[0].size();
     for(int i=0;i<n+m-1;i++){
-        if(i%2){
-            for(int j=min(i,m-1);j>=0 && i-j<n;j--){
+        if(i%2)
+            for(int j=min(i,m-1);j>=0 && i-j<n;j--)
                 res.push_back(matrix[i-j][j]);
-            }
-        }
-        else{
-            for(int j=min(n-1,i);j>=0 && i-j<m;j--){
+        else
+            for(int j=min(n-1,i);j>=0 && i-j<m;j--)
                 res.push_back(matrix[j][i-j]);
-            }
-        }
     }
     return res;
 }
