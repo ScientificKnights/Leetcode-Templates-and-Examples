@@ -99,7 +99,7 @@ iii) Range: [Lowest Common Ancestor of BST](https://github.com/chbyang/Leetcode-
 ### d) Segment Tree
 ## 15. Stack / Queue / Priority_queue / Deque
 i) Stack [Maximum Width Ramp](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0962.%20Maximum%20Width%20Ramp.h) / [Remove All Adjacent Duplicates In String](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.h) / [Basic Calculator III](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0772.%20Basic%20Calculator%20III.h)  
-
+ii) 
 iii) Priority_queue [Last Stone Weight](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1046.%20Last%20Stone%20Weight.h)  
 iv) Deque [Sliding Window Max](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0239.%20Sliding%20Window%20Maximum.h)  
 ## 16. Map / Unordered_map / Set / Unordered_set
@@ -125,3 +125,5 @@ i) merge sort [Reverse Pair](https://github.com/chbyang/Leetcode-Templates-and-E
 [Number of Submatrices That Sum to Target](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1074.%20Number%20of%20Submatrices%20That%20Sum%20to%20Target.h) / [Range Sum Query 2D - Mutable](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0308.%20Range%20Sum%20Query%202D%20-%20Mutable.h), [- Immutable](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0304.%20Range%20Sum%20Query%202D%20-%20Immutable.h) /   
 ## Overlap
 [Rectangle Area](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0223.%20Rectangle%20Area.h) (Similar: [Rectangle Overlap](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0836.%20Rectangle%20Overlap))
+## Parenthesis
+[Valid Parenthesis String](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0678.%20Valid%20Parenthesis%20String.h) / [Number of Atoms](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0726.%20Number%20of%20Atoms.h)
