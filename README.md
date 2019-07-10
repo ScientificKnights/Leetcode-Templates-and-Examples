@@ -97,6 +97,8 @@ iii) Range: [Lowest Common Ancestor of BST](https://github.com/chbyang/Leetcode-
 ### c) Tire Tree
 [Palindrome Pairs](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0336.%20Palindrome%20Pairs.h) / [Implement Trie (Prefix Tree)](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0208.%20Implement%20Trie%20(Prefix%20Tree).h) / [Stream of Characters](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1032.%20Stream%20of%20Characters.h) / [Prefix and Suffix Search](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0745.%20Prefix%20and%20Suffix%20Search.h) / [Add and Search Word - Data structure](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0211.%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.h) / [Repalce Words]()  
 ### d) Segment Tree
+i)  
+ii) [Corporate Flight Bookings](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1109.%20Corporate%20Flight%20Bookings.h)  
 ## 15. Stack / Queue / Priority_queue / Deque
 i) Stack [Maximum Width Ramp](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0962.%20Maximum%20Width%20Ramp.h) / [Remove All Adjacent Duplicates In String](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String.h) / [Basic Calculator III](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0772.%20Basic%20Calculator%20III.h)  
 ii) 
