@@ -31,7 +31,7 @@ ii) mid>=() return left; 找到的left>=target; left-1<target
 ### c) upper_bound, lower_bound
 [Max Sum of Rectangle No Larger Than K](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0363.%20Max%20Sum%20of%20Rectangle%20No%20Larger%20Than%20K.h) / [Longest Increasing Subsequence](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0300.%20Longest%20Increasing%20Subsequence.h) (Similar: [Russian Doll Envolopes](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0354.%20Russian%20Doll%20Envelopes.h)) / [Odd Even Jump](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0975.%20Odd%20Even%20Jump.h) / [Number of Matching Subsequences](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0792.%20Number%20of%20Matching%20Subsequences.h) / [Missing Element in Sorted Array](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1060.%20Missing%20Element%20in%20Sorted%20Array.h)  
 ### d) nth_element
-[Two City Scheduling](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1029.%20Two%20City%20Scheduling.h)
+[Two City Scheduling](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1029.%20Two%20City%20Scheduling.h) / [Minimize Rounding Error to Meet Target](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1058.%20Minimize%20Rounding%20Error%20to%20Meet%20Target.h)
 ## 3. DFS
 every try must be correct if backtrack not used  
 i) grid [Template 1](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/template/DFS.cpp)  
