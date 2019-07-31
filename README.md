@@ -1,5 +1,5 @@
 # Leetcode
-# Dear viewers, this repo will be deleted soon in next month when i start apply jobs. Download now if you like it!
+# Dear viewers, this repo will be deleted soon in Aug once i start apply jobs. Download now if you like it!
 ## 1. Dynamic Programming
 When to use: 之后的结果对前面没有影响，并且存在关系 F(n)=f(F(k<n)). 解决dp问题关键是找到推进公式  
 问题格式： HOW MANY?? MAXMUM/MINMUM?? TURE/FALSE?? Longest/Largest??  
