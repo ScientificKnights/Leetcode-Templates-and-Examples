@@ -17,6 +17,7 @@ public:
     }
     //find root
     int findroot(int u){
+        //是if不是while！！多次犯错啦。if+recursive，不需要loop
         if(u!=root[u])
             root[u]=findroot(root[u]);      //path compression
         return root[u];
