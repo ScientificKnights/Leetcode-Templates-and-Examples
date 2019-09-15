@@ -17,7 +17,7 @@ iv) 对角线推进: [Add Parentheses](https://github.com/chbyang/Leetcode-Templ
 ### c) Memoizatoin: Top Down
 [Word Break II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0140.%20Word%20Break%20II.h) / [Race Car](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0818.%20Race%20Car.h) / [Stone Game II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1140.%20Stone%20Game%20II.h)  
 ### d) Memoizatoin: Bottom Up
-[Smallest Sufficient Team](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1125.%20Smallest%20Sufficient%20Team.h) (Similar: [Campus Bikes II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1066.%20Campus%20Bikes%20II.h))  
+[Smallest Sufficient Team](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1125.%20Smallest%20Sufficient%20Team.h) (Similar: [Stickers to Spell Word](https://github.com/ScientificKnights/Leetcode-Templates-and-Examples/blob/master/code/0691.%20Stickers%20to%20Spell%20Word.h) / [Campus Bikes II](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/1066.%20Campus%20Bikes%20II.h))  
 ### e) 3D
 [Remove Boxes](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0546.%20Remove%20Boxes) / [Cherry Pickup](https://github.com/chbyang/Leetcode-Templates-and-Examples/blob/master/code/0741.%20Cherry%20Pickup.h)
 ## 2. Binary Search
