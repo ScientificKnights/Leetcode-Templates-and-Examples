@@ -16,17 +16,24 @@ key = 3
 Given key to delete is 3. So we find the node with value 3 and delete it.
 */
 
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ * };
+ */
+
 TreeNode* deleteNode(TreeNode* root, int key) {
-    TreeNode* prev=NULL,*find=root;
+    TreeNode* prev=NULL, *find=root;
     while(find && find->val!=key){
-        if(find->val<key){
-            prev=find;
+        prev=find;
+        if(find->val<key)
             find=find->right;
-        }
-        else{
-            prev=find;
+        else
             find=find->left;
-        }
     }
     if(!find) return root;  //cannot find return root
 
@@ -35,17 +42,19 @@ TreeNode* deleteNode(TreeNode* root, int key) {
         if(prev->left==find) prev->left=find->right;
         else prev->right=find->right;
     }
+    else if(!find->right){
+        if(!prev) return root->left;
+        if(prev->left==find) prev->left=find->left;
+        else prev->right=find->left;
+    }
     else{
-        TreeNode* next=find->left;
-        prev=find;
-        while(next->right){
-            prev=next;
-            next=next->right;
+        TreeNode* temp=find->right;
+        while(temp->left) temp=temp->left;
+        temp->left=find->left;
 
-        }
-        find->val=next->val;
-        if(prev->left==next) prev->left=next->left;
-        else prev->right=next->left;
+        if(!prev) return root->right;
+        if(prev->left==find) prev->left=find->right;
+        else prev->right=find->right;
     }
     return root;
 }
