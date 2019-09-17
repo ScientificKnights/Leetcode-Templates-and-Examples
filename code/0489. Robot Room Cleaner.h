@@ -65,13 +65,14 @@ Assume all four edges of the grid are all surrounded by wall.
 class Solution {
 private:
     void helper(Robot& robot, unordered_map<int,unordered_map<int,int>> &cleaned,int y, int x,int direction){
-        vector<int> pos={1,0,-1,0,1};
+        vector<int> pos_y={1,0,-1,0};
+        vector<int> pos_x={0,-1,0,1};
         robot.clean();
         cleaned[y][x]=1;
         for(int i=0;i<4;i++){
             //要沿着第一次到这个格子的direction变
-            int next_y=y+pos[(direction+i)%4];
-            int next_x=x+pos[(direction+i)%4+1];
+            int next_y=y+pos_y[(direction+i)%4];
+            int next_x=x+pos_x[(direction+i)%4];
             //不用find，直接是否等于
             if( cleaned[next_y][next_x]!=1 && robot.move()){
                 helper(robot, cleaned,next_y,next_x,(direction+i)%4);
